@@ -1,0 +1,150 @@
+init -999 python:
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_001 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_001 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_002 = ["Absol",52,12,7,6,5,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_002 = ["Absol",30,2,4,1,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_003 = ["Mega Absol",52,12,8,6,6,6,7]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_003 = ["Mega Absol",30,2,4,1,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_004 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_004 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_005 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_005 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_006 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_006 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_007 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_007 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_008 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_008 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_009 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_009 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0010 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0010 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0011 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0011 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0012 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0012 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0013 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0013 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0014 = ["Abra",52,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0014 = ["Abra",30,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0015 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0015 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0016 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0016 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0017 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0017 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0018 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0018 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0019 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0019 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0020 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0020 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0021 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0021 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0022 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0022 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0023 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0023 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0024 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0024 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0025 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0025 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0026 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0026 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0027 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0027 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0028 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0028 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0029 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0029 = ["Abra",12,2,0,0,2,1,2]
+
+#   ID = NOME = XP MAX = HP = ATK = DEF = SPATK = SPDEF = SPD
+P_0030 = ["Abra",25,11,5,5,6,6,6]
+#   ID = NOME = XP POR LV = CATCH RATE = HP LV = ATK LV = DEF LV = SPATK LV = SPDEF LV = SPD
+PP_0030 = ["Abra",12,2,0,0,2,1,2]
